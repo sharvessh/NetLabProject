@@ -1,0 +1,8 @@
+.venv/
+.idea/
+secrets.txt
+
+venv/
+*.pyc
+*.pcap
+__pycache__/
